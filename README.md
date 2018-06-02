@@ -1,0 +1,1 @@
+Basic React boilerplate code for project startup
